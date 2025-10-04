@@ -27,5 +27,5 @@ You can see all of these projects as videos on my Instagram:
 
  ⬇️ **Clone the repository:**  
    ```sh
-   git clone https://github.com/Lb-Programming/python-projects-collection.git
+   git clone https://github.com/b1l4l-sec/python-projects-collection.git
 "# python-projects-collection" 
